@@ -93,5 +93,5 @@ public class ControlaJogador : MonoBehaviour {
 				Comportamento.SendMessage("exibirpanel");
 
 	}
-    
+	   
 }
