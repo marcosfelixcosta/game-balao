@@ -7,9 +7,7 @@ Analista: Marcos Felix
 Data: 27-03-2021
 Game: Balão
 ======================================
-
 */
-
 public class DestroiParticula : MonoBehaviour {
 
 	void Start () {
